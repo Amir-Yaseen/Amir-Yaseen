@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amir-Yaseen
 - 👀 I’m interested in Hybrid App Development(Flutter)
-- 🌱 I’m currently learning Advanced Flutter Backend.
+- 🌱 Fluter Ui, Firebase, Api Integration, Provider, Bloc.
 - 💞️ I’m looking to collaborate on Flutter Projects.
 - 📫 How to reach me:
 - gmail: yamir4266@gmail.com
