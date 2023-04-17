@@ -1,11 +1,25 @@
-- 👋 Hi, I’m @Amir-Yaseen
-- 👀 I’m interested in Hybrid App Development(Flutter)
-- 🌱 Fluter Ui, Firebase, Api Integration, Provider, Bloc.
-- 💞️ I’m looking to collaborate on Flutter Projects.
-- 📫 How to reach me:
-- gmail: yamir4266@gmail.com
+💫 About Me:
+👋 Hi, I’m @Amir-Yaseen
+👀 I’m interested in Hybrid App Development(Flutter)
+🌱 Fluter Ui, Firebase, Api Integration, Provider, Bloc.
+💞️ I’m looking to collaborate on Flutter Projects.
 
-<!---
-Amir-Yaseen/Amir-Yaseen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 Socials:
+Instagram [LinkedIn](https://linkedin.com/in/xamir)
+
+💻 Tech Stack:
+Firebase Dart Flutter Adobe After Effects Adobe Lightroom Adobe Photoshop Adobe Premiere Pro Figma Canva LINUX
+
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
+
+
+✍️ Random Dev Quote
+
+
